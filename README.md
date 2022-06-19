@@ -30,7 +30,9 @@ The sample data can be downloaded from [here.](https://drive.google.com/file/d/1
 ``` 
 python3 main.py <path-to-sample-data-hevc> 
 ```
-https://github.com/Grace-TA/modeld/blob/master/sdc-main.gif
+
+![image](https://github.com/Grace-TA/modeld/blob/master/sdc-main.gif)
+
 
 4. Run lane_visulaizer_dynamic.py
 
@@ -38,7 +40,7 @@ https://github.com/Grace-TA/modeld/blob/master/sdc-main.gif
 python3 lane_visulaizer_dynamic.py <path-to-sample-data-hevc> 
 ```
 
-https://github.com/Grace-TA/modeld/blob/master/sdc-visualize.gif
+![image](https://github.com/Grace-TA/modeld/blob/master/sdc-visualize.gif)
 
 
 ## What's next ? 
