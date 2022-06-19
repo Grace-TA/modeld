@@ -25,11 +25,21 @@ This will install all the necessary dependencies for running this.
 
 The sample data can be downloaded from [here.](https://drive.google.com/file/d/1hP-v8lLn1g1jEaJUBYJhv1mEb32hkMvG/view?usp=sharing) More data will be added soon. 
 
-3. Run the program
+3. Run main.py program
 
 ``` 
 python3 main.py <path-to-sample-data-hevc> 
 ```
+https://github.com/Grace-TA/modeld/blob/master/sdc-main.gif
+
+4. Run lane_visulaizer_dynamic.py
+
+``` 
+python3 lane_visulaizer_dynamic.py <path-to-sample-data-hevc> 
+```
+
+https://github.com/Grace-TA/modeld/blob/master/sdc-visualize.gif
+
 
 ## What's next ? 
 
